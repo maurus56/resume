@@ -15,7 +15,7 @@ body {
   width: 120rem
 }
 
-.body--webpdf .template__fixed-element,
+/* .body--webpdf .template__fixed-element,
 .body--pdf .template__fixed-element {
   display: none
 }
@@ -26,8 +26,8 @@ body {
 }
 
 .body--preview .preview-box {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
   height: 157.71429rem;
   overflow: hidden
 }
@@ -56,7 +56,7 @@ body {
   background: white;
   padding-top: 6rem;
   padding-bottom: 6rem
-}
+} */
 
 @font-face {
   font-family: 'montserrat';
