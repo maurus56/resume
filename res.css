@@ -403,7 +403,8 @@
     -webkit-box-flex: 0;
     -ms-flex: 0 0 14rem;
     flex: 0 0 14rem;
-    color: #000
+    color: #000;
+    min-width: 200px
   }
   
   .main__content-subtitle {
