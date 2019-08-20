@@ -102,7 +102,22 @@ body {
   display: flex
 }
 
-.title {  
+.top-block {
+  width: 100%;
+  margin-bottom: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  min-height: 12rem;
+}
+
+.title {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -155,8 +170,16 @@ body {
   margin-top: 1rem
 }
 
-.top-block__photo img {
-  vertical-align: middle
+.top-block__photo {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 12rem;
+  flex: 0 0 12rem;
+  width: 12rem;
+  height: 12rem;
+  background-color: #fff;
+  border-radius: 50%;
+  background-size: 100% 100%;
+  background-position: center center
 }
 
 .sidebar {
