@@ -11,6 +11,7 @@ html {
 
 body {
   margin: 0 5rem;
+  margin-bottom: 5rem;
   padding: 0;
   width: 120rem
 }
@@ -172,14 +173,14 @@ body {
 
 .top-block__photo {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 12rem;
-  flex: 0 0 12rem;
-  width: 12rem;
-  height: 12rem;
+  -ms-flex: 0 0 20rem;
+  flex: 0 0 20rem;
+  width: 20rem;
+  height: 20rem;
   background-color: #fff;
   border-radius: 50%;
-  background-size: 100% 100%;
-  background-position: center center
+  background-size: 140% 140%;
+  background-position: center -2rem;
 }
 
 .sidebar {
