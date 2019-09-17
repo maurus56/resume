@@ -233,7 +233,7 @@ body {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  margin-bottom: 2.7rem
+  margin-bottom: 2.5rem
 }
 
 .sidebar__contact {
@@ -259,7 +259,7 @@ body {
 }
 
 .sidebar__socials-item {
-  margin-bottom: 1.6rem
+  margin-bottom: 1.5rem
 }
 
 .sidebar__socials-label {
