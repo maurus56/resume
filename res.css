@@ -272,6 +272,8 @@ body {
 }
 
 .sidebar__socials-link {
+  display: block;
+  width: 100%;
   font-size: 1.8rem;
   text-decoration: underline;
   color: #5d5d5d;
