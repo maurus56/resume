@@ -183,7 +183,7 @@ body {
 }
 
 .sidebar {
-  width: 33%;
+  width: 28%;
   padding: 5rem 5rem 0 0;
   border-top: 2px solid #d8d8d8;
   border-right: 2px solid #d8d8d8
@@ -318,7 +318,7 @@ body {
 
 .main {
   padding: 5rem 0 0 5rem;
-  width: 67%;
+  width: 72%;
   border-top: 2px solid #d8d8d8
 }
 
